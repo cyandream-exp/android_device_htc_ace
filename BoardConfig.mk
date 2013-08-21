@@ -60,7 +60,7 @@ BOARD_FLASH_BLOCK_SIZE := 262144
 
 TARGET_KERNEL_SOURCE := kernel/htc/htc7x30-3.0
 TARGET_KERNEL_CONFIG := spade_defconfig
-TARGET_PREBUILT_KERNEL := device/htc/ace/prebuilt/kernel/kernel
+#TARGET_PREBUILT_KERNEL := device/htc/ace/prebuilt/kernel/kernel
 
 TARGET_RECOVERY_FSTAB := device/htc/ace/ramdisk/fstab.spade
 
