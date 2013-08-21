@@ -1,18 +1,18 @@
 [
  {
-   "repository": "Mustaavalkosta/htc7x30-3.0",
+   "repository": "yanniks/RowShow-7x30",
    "target_path": "kernel/htc/htc7x30-3.0",
-   "branch": "cm-10.1"
- }
- 
+   "branch": "cyandream"
+ }, 
  {
  
-  "repository": "Mustaavalkosta/android_device_htc_msm7x30-common",
+  "repository": "yanniks/android_device_htc_msm7x30-common",
   "target_path: "device/htc/msm7x30-common",
   "branch": "cm-10.1"
-  
+ },
  {
   "repository": "Mustaavalkosta/android_vendor_htc_ace",
   "target_path": "vendor/htc/ace",
   "branch": "cm-10.1"
+ }
 ]
