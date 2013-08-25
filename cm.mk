@@ -1,8 +1,8 @@
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/cyandream/config/common_full_phone.mk)
 
 # Inherit AOSP device configuration for ace
 $(call inherit-product, device/htc/ace/device_ace.mk)
-$(call inherit-product, vendor/cm/config/gsm.mk)
+$(call inherit-product, vendor/cyandream/config/gsm.mk)
 
 PRODUCT_DEVICE := ace
 PRODUCT_NAME := cm_ace
