@@ -60,7 +60,6 @@ BOARD_FLASH_BLOCK_SIZE := 262144
 
 TARGET_KERNEL_SOURCE := kernel/htc/RowShow-7x30
 TARGET_KERNEL_CONFIG := spade_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 #TARGET_PREBUILT_KERNEL := device/htc/ace/prebuilt/kernel/kernel
 
 TARGET_RECOVERY_FSTAB := device/htc/ace/ramdisk/fstab.spade
